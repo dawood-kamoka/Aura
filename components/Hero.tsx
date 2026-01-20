@@ -27,10 +27,10 @@ const Hero: React.FC = () => {
             Creative Developer & UI Designer
           </span>
           <h1 className="text-white text-6xl md:text-8xl lg:text-9xl font-display font-bold tracking-tighter leading-none">
-            AURA <span className="text-transparent stroke-text">STUDIO</span>
+            DAWOOD <span className="text-transparent stroke-text">KAMOKA</span>
           </h1>
           <p className="text-slate-200 dark:text-slate-300 text-lg md:text-xl font-light max-w-xl mx-auto leading-relaxed">
-            Crafting digital experiences that merge sophisticated design with cutting-edge performance.
+           Full-stack web developer skilled in MongoDB, Express, React, and Node.js. Passionate about building modern, scalable web applications.
           </p>
           <div className="pt-8 flex gap-6 justify-center">
             <a 
